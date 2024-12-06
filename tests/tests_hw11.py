@@ -46,3 +46,4 @@ def test_selen(browser_test):
                                                and 'NCR Delhi'))
 
 # коммент для коммита
+# починила что ли?
