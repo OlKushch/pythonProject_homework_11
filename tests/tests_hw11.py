@@ -44,3 +44,5 @@ def test_selen(browser_test):
                                                and 'Sport'
                                                and 'SPB'
                                                and 'NCR Delhi'))
+
+# коммент для коммита
